@@ -53,4 +53,4 @@ You'll get this screen and the result:
 
 ![](http://i.imgur.com/cmZEHNQ.png)
 
-If you get a valid value as output, an alert would be generated. Otherwise, nothing would happen
+If you get a valid value as output, an alert would be generated. Otherwise, nothing would happen.
