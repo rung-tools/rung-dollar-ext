@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/rung-tools/rung-dollar-ext.git",
   "author": "Marcelo Camargo <marcelocamargo@linuxmail.org>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "rung-sdk": "^1.0.4"
+  }
 }
