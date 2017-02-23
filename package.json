@@ -7,6 +7,9 @@
   "author": "Marcelo Camargo <marcelocamargo@linuxmail.org>",
   "license": "MIT",
   "dependencies": {
-    "rung-sdk": "^1.0.4"
+    "bluebird": "^3.4.7",
+    "rung-sdk": "^1.0.4",
+    "superagent": "^3.5.0",
+    "superagent-promise": "^1.1.0"
   }
 }
