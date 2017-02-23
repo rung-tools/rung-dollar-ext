@@ -1,0 +1,9 @@
+{
+  "name": "rung-dollar-ext",
+  "version": "1.0.0",
+  "description": "Rung demo integration to tell when dollar is low",
+  "main": "index.js",
+  "repository": "https://github.com/rung-tools/rung-dollar-ext.git",
+  "author": "Marcelo Camargo <marcelocamargo@linuxmail.org>",
+  "license": "MIT"
+}
